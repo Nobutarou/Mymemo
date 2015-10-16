@@ -92,6 +92,37 @@ OjMxOjI3KzA5OjAwIfNadwAAAABJRU5ErkJggg==
 </img>
 <!--}}}-->
 </a>
+<!-- CamCard -->
+<a href=CamCard://>
+<!--{{{-->
+<img src="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
+AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAC3FBMVEUhp+0hp+0hp+0hp+0h
+p+0hp+0hp+0hp+0hp+0ho+0ho+0ho+0ho+0ho+0ho+0ho+0ho+0ho+0ho+0ho+0ho+0ho+0ho+0h
+o+0ho+0gnu0gnu0gnu0jn+4koO4koO4jn+4gnu0gnu0gnu0jn+4koO4koO4jn+4gnu0gnu0gmu4h
+mu4hm+4UlO0Pku0Pke0UlO0fme4hmu4im+4VlO0Pku0Pke0TlO0fme4gmu4hlu4ele4Yku1ZsfKV
+zfeWzvdZsfIjl+4fle4Xke1Vr/KTzPeYz/dds/Mkl+4fle4gke4cj+6r1vn///////////////9u
+uPQNiO2k0/j///////////////93vPUSiu0Qhe1yt/T////A3/ovle80l/Bzt/QZie5msfP////J
+5Pszl/Awle9xtvQqku8ci+4Rge232fr///9DnPEOgO0ch+4XhO0PgO2u1Pn///9NofINf+0dh+4T
+gu0dh+4fiO4Sfe682vr///85kvEXf+4ihu8age8RfO6z1fr///9Dl/IVfu4jhu8Xf+4eg+8fhO8O
+du6Fuvb///+cx/gTeO4dfu9Wn/MSeO56s/b///+mzPkVeu4afO9TnfMkgu8dfu8ceu8lf+/T5fz/
+///m8f3g7f3///95sfUTde7M4fv////p8/3d7P3///+Et/YPcu4geO8ZdO8le/CJuPfL3/vN4PuG
+tfYtgPAYc+8jeu+EtfbJ3vvO4fyLufcvgfAcde8ecu8gc+8cce8Oae4Sa+4Ra+4Oae4acO8gdO8c
+ce8Oae4Sa+4Sa+4Oae4ZcO8fc+8ebvAebvAfb/AicPAgb/Agb/AhcPAfb/AebvAfb/AhcPAgb/Ag
+b/AicPAfb/AebvAdavAdavAdavAdafAdavAdavAdafAdavAdavAdavAdafAdavAdavAdavAdavAd
+avAdZfAdZfAdZfAdZfAdZfAdZfAdZfAdZfAdZfAdZfD///9rLHtjAAAAAWJLR0TzrLG+7gAAAAd0
+SU1FB98KEBcyCM/XItIAAAEbSURBVBjTARAB7/4AAAECAwQFBgMEBQYDBAcICAAJCgsMDQ4PEBES
+ExQVFhcYABkaGxwdHh8gISIjJCUmJygAKSorLC0uLzAxMjM0NTY3OAA5Ojs8PT4/QEFCQ0RFRkdI
+AElKS0xNTk9QUVJTVFVWV1gAWVpbXF1eX2BhYmNkZWZnaABpamtsbW5vcHFyc3R1dnd4AHl6e3x9
+fn+AgYKDhIWGh4gAiYqLjI2Oj5CRkpOUlZaXmACZmpucnZ6foKGio6SlpqeoAKmqq6ytrq+wsbKz
+tLW2t7gAubq7vL2+v8DBwsPExcbHyADJysvMzc7P0NHS09TV1tfYANna29zd3t/g4eLj5OXm5+gA
+6err7O3u7+zt7u/s7fDx8pzpeIwZh99wAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE1LTEwLTE2VDIz
+OjUwOjA4KzA5OjAw47Q0IgAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNS0xMC0xNlQyMzo1MDowOCsw
+OTowMJLpjJ4AAAAASUVORK5CYII=
+">駅すぱあと
+</img>
+<!--}}}-->
+</a>
 <a href=mymemo://>
 <!--{{{-->
 <img src="data:image/png;base64,
